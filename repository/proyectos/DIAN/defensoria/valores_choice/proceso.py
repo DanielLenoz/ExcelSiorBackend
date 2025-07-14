@@ -1,0 +1,21 @@
+VALORES_PROCESO = [
+    "asistencia al cliente",
+    "fiscalización y liquidación",
+    "operación aduanera",
+    "gestión masiva",
+    "administración de cartera",
+    "gestión jurídica",
+    "recaudación",
+    "servicios informáticos",
+    "inteligencia corporativa",
+    "comercialización",
+    "recursos físicos",
+    "sin informacion",
+    "aduanero",
+    "tributario",
+    "cambiario",
+    "obligaciones tributarias",
+    "obligaciones aduaneras y cambiarias",
+    "cercanía al ciudadano",
+    "planeación  estrategia y control"
+]

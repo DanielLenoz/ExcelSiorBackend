@@ -1,0 +1,9 @@
+    "/home/anacleto/Descargas/consolidados/CSV/Consolidado2017-2022.csv",
+    "/home/anacleto/Descargas/consolidados/CSV/2024abr-sep.csv",
+    "/home/anacleto/Descargas/consolidados/CSV/2024ene-mar.csv",
+    "/home/anacleto/Descargas/consolidados/CSV/Consolidado2017-2019_ent.csv",
+    "/home/anacleto/Descargas/consolidados/CSV/Consolidado2019-2020_ent.csv",
+    "/home/anacleto/Descargas/consolidados/CSV/Consolidado2021-mayo2022.csv",
+    "/home/anacleto/Descargas/consolidados/CSV/Consolidadodic2022-dic2023.csv",
+    "/home/anacleto/Descargas/consolidados/CSV/Consolidadojun-nov2022.csv",
+    

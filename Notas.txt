@@ -1,0 +1,110 @@
+DEFENSORIA
+
+venia en otra orden las columnas y eso es lo que pasa 
+se debe de organizar por meses de los años 
+
+va de enero a diciemre
+
+entonces tocan normalizar donde se integran todos los archivos 
+
+Toco solo tener un archivo en .csv
+
+1 columna es la columna fuente donde viene el archivo NO TOCA CAMBIAR EL NOMBRE 
+
+2. toca poner el periodo de informacion mes de reporte (mes de 2021) 
+
+3 es el nombre del archivo db_transacional_
+
+apartir del junio 2021 cambio la estructura y no importa
+las columnas tiene _ o no 
+
+luego de solucion a favor 
+
+
+cuando viene dos fechas se coge la primera fecha en fecha de radicado
+
+Cedulas o nit -> se quita los puntos , -0 -9 se quita el tipo
+en dependencia dian -> quitar DGI-
+subproceso->toca quitar tildes 
+todos los csv separados por |
+
+Mes de Ene_Dic2021
+por el mes del radico uno sabe a que mes corresponde la fecha 
+
+
+DICSIPLINARIO DIAN 
+
+las fechas toca cambiarla a yyyy-mm-dd por que pueden cambiar a dd-mm-yyyy
+dejjar la primera fecha si vienen dos fechas 
+
+
+PQR
+muizca y dinamic 
+
+muizcas es la vieja 
+pasan algunos saltos
+
+dinamic
+es la nueva plataforma
+y es muy grande 
+
+--------------------------------------------------------------------------------------------------------
+OEAS 
+-es un beneficio que da a las empresas pero tienen que cumplir por unos requisitos
+-y se revisaria los pagos que eso se hace con los pagos consolidados 
+
+hay unois beneficios que le dan a los tributarios 
+denuncias extensiones fiscales para favoreserse y de las obligaciones de la DIAN 
+Bajo recaudo -> 
+meta de recaudo no se cumplio bajo recaudo 
+meta en terminos corrientes va creciendo 
+excepciones de contrinuyente -> acceso ala base de datos para los ingresos 
+de las base de datos del tema tributario y deberia ser por medio de la factura electronica 
+se debe de centralizar la informacion 
+
+Contratacion donde habia unos escaneres de mercacia y evitar el contrbando abierto
+
+FONDO DIAN 
+donde se esta dando la plata en la contratacion
+
+la contraduria debe de ser la que verifica la contracion para que no haya un sobre costo
+FIDUPREVISORA 
+
+Zonas froncas?
+tienen regimenes 
+hay zonas francas especiales, y es un proceso de seleccion donde son zonas se utilizan los empresarios y donde se queria promover la industria 
+PRA2008, procedimientos control aletorio de entradas y salidas a zonas francas
+
+
+
+
+Traernos alas 3 entidades para lo de fiscalización : 
+que se de tiempo mas nuevo 2024 y 2025  
+
+Informacion mensalidada para las alertas  
+
+Alerta para cartera un fiscalizacion  
+
+Mandaer a jefe a un pre de parrafo de que lo qe queremos para ADRES
+
+tener una base de datos de beneficiarios para lo de redes 
+
+tener un usuario para la base de datos de fallecidos y actas de nacimientos 
+
+ 
+ 
+ 
+ 1 crear reuniones todos miercoles en la mañana 9:30 a 10:00
+ 2 compartirte el notion con mi cronograma segun la la reunion de hoy 
+ 3. Pasarte el Acta 
+ 4. crear carpeta "MDE-Abril-28" dentro de hay el acta y grabaciones 
+ 5.hacer un archivo de los nombres de los archivos pasados por el computador 
+ 6. revisar credito de bancolombia 
+ 
+ 
+
+ 1. contextualizarte segun los archivos que me envio olga 
+ 2. hacer un analisis descriptivo de basico de la tabla solo el ultimo año disponible 
+ 2. se pueden tener anomalias verificar que anomalias hay
+ 4. solo se va hacer pesonas juridicas 
+ 5. va haber capacitacion via teams 12 de mayo posible 
